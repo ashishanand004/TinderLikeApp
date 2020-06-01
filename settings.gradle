@@ -1,0 +1,2 @@
+rootProject.name='Coditas_demo_App'
+include ':app'
